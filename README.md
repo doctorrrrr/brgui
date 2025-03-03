@@ -1,12 +1,9 @@
-# brgui
-Brynhildr Manager
-[UA]
-Покращення життя тим хто використовую прикольний сервер/кліент віддаленої допомоги Brynhilder.
-Дякую розробнику Brynhilder.
-Дякую розробникам ChatGPT
-Дякую ШІ.
-[EN]
-Improving the lives of those using Brynhilder's cool Remote Assistance server/client.
-Thanks to developer Brynhilder.
-Thanks to ChatGPT developers
-Thanks AI.
+🌍 [UA] Покращення роботи з Brynhildr
+
+Інструмент для зручного керування клієнтами Brynhildr – віддаленого сервер/клієнта допомоги.
+Дякую розробнику Brynhildr, команді ChatGPT та всім, хто розвиває штучний інтелект!
+
+🌍 [EN] Enhancing the Brynhildr Experience
+
+A tool for easy management of Brynhildr remote assistance clients.
+Thanks to the Brynhildr developer, the ChatGPT team, and everyone advancing AI!
